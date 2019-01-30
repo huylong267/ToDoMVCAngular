@@ -1,0 +1,12 @@
+.icon-wrapper{
+  width: 40px;
+  font-size: 45px;
+  color: gray;
+  background: white;
+  transition: 250ms all ease-in-out;
+  cursor: pointer;
+
+  &:hover{
+    color: black;
+  }
+}
